@@ -1,0 +1,9 @@
+<!-- Modified for ForeverAuras; namespace and/or implementation changes through 2026-09-18. -->
+<Bindings>
+  <Binding name="WibeAurasPROFILINGTOGGLE" Category="BINDING_HEADER_WibeAuras">
+    WibeAurasProfilingFrame:Toggle()
+  </Binding>
+  <Binding name="WibeAurasPRINTPROFILING" Category="BINDING_HEADER_WibeAuras">
+    WibeAuras.PrintProfile()
+  </Binding>
+</Bindings>

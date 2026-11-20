@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: WibeAuras Config
+## Notes: Example WibeAuras configuration
+
+Settings.lua
+Auras\StatusGroup.lua
+Auras\Ready.lua
+Auras\PlayerHealth.lua
+Auras\CombatStatus.lua

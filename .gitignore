@@ -1,6 +1,4 @@
 .env
-ForeverAuras/Libs/*
-ForeverOptions/Libs/*
 format.bat
 **/desktop.ini
 .DS_Store

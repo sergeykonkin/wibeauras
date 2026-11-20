@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: WibeAuras Config
+## Notes: Agent-authored aura definitions for WibeAuras
+
+Settings.lua
+# List individual aura files here, after Settings.lua.

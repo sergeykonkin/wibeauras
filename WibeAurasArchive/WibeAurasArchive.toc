@@ -1,0 +1,11 @@
+# Modified for ForeverAuras; namespace and/or implementation changes through 2026-09-18.
+## Interface: 16001
+## Title: WibeAuras Archive
+## Author: m33shoq, WeakAuras contributors
+## Version: 1.4.3
+## X-License: GPL-2.0
+## X-Copyright: ForeverAuras changes (C) 2026 ForeverAuras; WeakAuras (C) its contributors
+## IconTexture: Interface\AddOns\WibeAuras\Media\Textures\wibeauras_logo_64.tga
+## LoadOnDemand: 1
+## SavedVariables: WibeAurasArchive
+## Dependencies: WibeAuras

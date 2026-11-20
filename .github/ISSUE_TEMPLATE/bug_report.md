@@ -10,7 +10,7 @@ assignees: ''
 ## Describe the bug
 A clear and concise description of what the bug is.
 
-## What version of ForeverAuras are you using?
+## What version of WibeAuras are you using?
 v X.X.X
 
 ## To Reproduce

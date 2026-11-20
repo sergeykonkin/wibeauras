@@ -1,0 +1,1 @@
+WibeAurasConfig = { displays = {} }
